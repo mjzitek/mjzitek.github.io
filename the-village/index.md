@@ -1,4 +1,8 @@
 ---
 layout: default
 ---
-Hello World!
+
+<ul>
+	<li><a href='/the-village/genetics/'>Genetics</a></li>
+
+</ul>
