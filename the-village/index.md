@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<ul>
-	<li><a href='/the-village/genetics/'>Genetics</a></li>
+Persons
 
-</ul>
+* [Genetics](/the-village/genetics)
+* [Health](/the-village/health)
+
+
+[Locations](/the-village/locations)

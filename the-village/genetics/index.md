@@ -18,6 +18,6 @@ layout: default
 * Intelligence
 * Strength
 * Kindness
-* Furtility
+* Fertility
 
 
