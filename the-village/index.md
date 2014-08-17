@@ -5,7 +5,7 @@ layout: default
 # The Village
 
 ***
-</br>
+<br />
 
 ### Persons
 
