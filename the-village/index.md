@@ -14,3 +14,6 @@ layout: default
 
 
 ### [Locations](/the-village/locations)
+
+
+### [Food](/the-village/food)
