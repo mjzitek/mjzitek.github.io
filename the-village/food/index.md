@@ -122,3 +122,16 @@ FoodItems:
 	]
 </code>
 </pre>
+
+
+* addToVillagersInventory() {}
+
+* removeFromVillagersInventory() {}
+
+* eatFoodItem() {}
+
+* addToStructuresInventory() {}
+
+* removeFromStructuresInventory() {}
+
+* prepareFoodItem(personId, foodItem, ingredients, callback)
